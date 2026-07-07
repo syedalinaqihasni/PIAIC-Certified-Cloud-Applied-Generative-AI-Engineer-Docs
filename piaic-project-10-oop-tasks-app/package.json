@@ -14,7 +14,7 @@
   "author": "syedalinaqihasni",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^13.2.4"
+    "inquirer": "^14.0.2"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.3"

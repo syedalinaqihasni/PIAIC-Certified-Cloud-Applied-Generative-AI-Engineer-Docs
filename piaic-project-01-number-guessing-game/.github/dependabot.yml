@@ -6,6 +6,8 @@ updates:
     schedule:
       interval: "daily"
 
+    open-pull-requests-limit: 100
+
     labels:
       - dependencies
 
@@ -13,4 +15,4 @@ updates:
       prefix: "deps"
 
     reviewers:
-      syedalinaqihasni
+      - syedalinaqihasni
